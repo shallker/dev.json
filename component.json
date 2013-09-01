@@ -1,0 +1,10 @@
+{
+  "name": "dev.json",
+  "repo": "shallker/dev.json",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
